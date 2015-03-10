@@ -1,0 +1,172 @@
+
+img#logo {
+	width: 53px;
+  
+	height: 53px;
+  
+	margin: -19px 10px 0px -5px;
+}
+
+/* Index */
+
+#thumbs li {
+  width: 270px;
+  height: 350px;
+  border: 2px solid grey;
+  display: inline-block;
+  margin: 6px 6px 6px 6px;
+  background: #F7F7F7;
+}
+
+#thumbs li:hover {
+	border: 2px solid darkred;
+}
+
+#thumbs {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.filter {
+  text-align: right;
+  margin: -19px 0 -1px 0;
+}
+
+.titel-center {
+  text-align: center;
+}
+
+.titel-center span {
+  margin: 0 10px 0 0px;
+}
+.titel-left {
+  text-align: left;
+}
+
+.titel-left span {
+  margin: 0 10px 0 0px;
+}
+
+.textblok {
+  margin: 0px 0px -17px 0px;
+  background: #303030;
+  overflow: hidden;
+  color: white;
+}
+
+p.onderschrift {
+  font-family: sans-serif;
+}
+
+.stats {
+  text-align: right;
+  font-size: 12px;
+  margin: 0 4px 0 0;
+  font-family: sans-serif;
+}
+
+p.views {
+  margin: 22px 0 0 0;
+}
+
+
+img.img-poster {
+  width: 264px;
+  height: 220px;
+}
+
+.vote_buttons {
+  text-align: left;
+  margin: -42px -2px 0px 6px;
+}
+
+p.datum {
+  margin: -26px 110px 0 0;
+  font-size: 10px;
+  font-weight: 300;
+  color: firebrick;
+}
+
+/*DIT IS DE CSS VAN MEEST BEKEKEN*/
+
+.populair li {
+  width: 250px;
+  height: 274px;
+  border: 2px solid grey;
+  display: inline-block;
+  margin: 6px 6px 6px 6px;
+  background: #F7F7F7;
+}
+
+.populair li:hover {
+	border: 2px solid darkred;
+}
+
+.populair {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.populair img.img-poster {
+  width: 244px;
+  height: 220px;
+  margin: 1px 0 0 0;
+}
+
+button.btn.btn-default.btn-lg.top_plus {
+  margin: -443px 0 0 -2px;
+}
+
+button.btn.btn-default.btn-lg.top_minus {
+  margin: -443px 0 0 131px;
+}
+
+/*.top_stats {
+  width: 106px;
+  font-size: 12px;
+  color: black;
+  margin: 8px auto;
+  font-weight: 400;
+  border-radius: 7px;
+}*/
+
+.topstats {
+  width: 114px;
+  font-size: 13px;
+  color: black;
+  margin: -64px 0 0 65px;
+  font-weight: 400;
+  border-radius: 4px;
+  background-color: white !important;
+  position: absolute;
+  height: 44px;
+  opacity: 0.7;
+  text-align: left;
+  font-weight: 500;
+  padding: 0px 1px 0 5px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+
+.populair .textblok {
+  margin: 0px 0px -17px 0px;
+  overflow: hidden;
+  color: black;
+  height: 49px;
+  background: #F7F7F7;
+}
+
+.populair h4.title {
+  margin: 8px 0 0 0;
+}
+
+
+.populair p.views {
+  margin: 9px 0 0 0;
+  opacity: 1 !important;
+}
